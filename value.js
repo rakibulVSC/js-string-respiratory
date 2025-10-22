@@ -76,11 +76,11 @@ isStudent: true
 //     console.log(prop);
 //     console.log(myObject[prop])
 // }
-const keys=Object.keys(myObject);
+// const keys=Object.keys(myObject);
 
 
-for(const key of keys){
-    const valu=myObject[key];
-    const type=typeof valu;
-    console.log("key:", key ,'|', 'type:',type)
-}
+// for(const key of keys){
+//     const valu=myObject[key];
+//     const type=typeof valu;
+//     console.log("key:", key ,'|', 'type:',type)
+// }
